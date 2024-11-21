@@ -3,14 +3,14 @@ Aim:
 - Represent classes and relationships in **UML**
 - Develop simple **Class Diagrams**
 
-![Screenshot 2024-09-07 at 22.49.11](Screenshot%202024-09-07%20at%2022.49.11.png)
+![Screenshot 2024-09-07 at 22.49.11](attachments/Screenshot%202024-09-07%20at%2022.49.11.png)
 # Unified Modeling Language (UML)
 UML is a graphical modeling language that can be used to represent object oriented analyisis, design and implementation.
 # Classes in UML
- ![Screenshot 2024-09-07 at 22.58.25](Screenshot%202024-09-07%20at%2022.58.25.png)
- ![Screenshot 2024-09-07 at 22.58.39](Screenshot%202024-09-07%20at%2022.58.39.png)
- ![Screenshot 2024-09-07 at 22.58.49](Screenshot%202024-09-07%20at%2022.58.49.png)
- ![Screenshot 2024-09-07 at 22.59.02](Screenshot%202024-09-07%20at%2022.59.02.png)
+ ![Screenshot 2024-09-07 at 22.58.25](attachments/Screenshot%202024-09-07%20at%2022.58.25.png)
+ ![Screenshot 2024-09-07 at 22.58.39](attachments/Screenshot%202024-09-07%20at%2022.58.39.png)
+ ![Screenshot 2024-09-07 at 22.58.49](attachments/Screenshot%202024-09-07%20at%2022.58.49.png)
+ ![Screenshot 2024-09-07 at 22.59.02](attachments/Screenshot%202024-09-07%20at%2022.59.02.png)
 # Class relationships in UML
 4 common types of relationships:
 - Association
@@ -24,33 +24,33 @@ UML is a graphical modeling language that can be used to represent object orient
 
 E.g. Represent position of  the `GameObject` class using the `Position` class instead of coordinates using `int x, y;` or `double x, y;`
 
-![Screenshot 2024-09-07 at 23.09.31](Screenshot%202024-09-07%20at%2023.09.31.png)
+![Screenshot 2024-09-07 at 23.09.31](attachments/Screenshot%202024-09-07%20at%2023.09.31.png)
 ### Properties of Association
 #### Name and role
-![Screenshot 2024-09-07 at 23.21.29](Screenshot%202024-09-07%20at%2023.21.29.png)
+![Screenshot 2024-09-07 at 23.21.29](attachments/Screenshot%202024-09-07%20at%2023.21.29.png)
 #### Directionality
-![Screenshot 2024-09-07 at 23.23.00](Screenshot%202024-09-07%20at%2023.23.00.png)
+![Screenshot 2024-09-07 at 23.23.00](attachments/Screenshot%202024-09-07%20at%2023.23.00.png)
 #### Multiplicity
-![Screenshot 2024-09-07 at 23.23.51](Screenshot%202024-09-07%20at%2023.23.51.png)
-![Screenshot 2024-09-07 at 23.24.02](Screenshot%202024-09-07%20at%2023.24.02.png)
-![Screenshot 2024-09-07 at 23.24.24](Screenshot%202024-09-07%20at%2023.24.24.png)
+![Screenshot 2024-09-07 at 23.23.51](attachments/Screenshot%202024-09-07%20at%2023.23.51.png)
+![Screenshot 2024-09-07 at 23.24.02](attachments/Screenshot%202024-09-07%20at%2023.24.02.png)
+![Screenshot 2024-09-07 at 23.24.24](attachments/Screenshot%202024-09-07%20at%2023.24.24.png)
 #### Type: plain association (like above)
 #### Type: self association
-![Screenshot 2024-09-07 at 23.25.38](Screenshot%202024-09-07%20at%2023.25.38.png)
+![Screenshot 2024-09-07 at 23.25.38](attachments/Screenshot%202024-09-07%20at%2023.25.38.png)
 #### Type: multiple associations
-![Screenshot 2024-09-07 at 23.26.00](Screenshot%202024-09-07%20at%2023.26.00.png)
+![Screenshot 2024-09-07 at 23.26.00](attachments/Screenshot%202024-09-07%20at%2023.26.00.png)
 #### Type: aggregation
-![Screenshot 2024-09-07 at 23.26.54](Screenshot%202024-09-07%20at%2023.26.54.png)
+![Screenshot 2024-09-07 at 23.26.54](attachments/Screenshot%202024-09-07%20at%2023.26.54.png)
 #### Type: composition
-![Screenshot 2024-09-07 at 23.28.29](Screenshot%202024-09-07%20at%2023.28.29.png)
+![Screenshot 2024-09-07 at 23.28.29](attachments/Screenshot%202024-09-07%20at%2023.28.29.png)
 ## Generalisation (Inheritance)
- ![Screenshot 2024-09-07 at 23.31.31](Screenshot%202024-09-07%20at%2023.31.31.png)
+ ![Screenshot 2024-09-07 at 23.31.31](attachments/Screenshot%202024-09-07%20at%2023.31.31.png)
 
 For abstract classes, italicise:
-![Screenshot 2024-09-07 at 23.32.11](Screenshot%202024-09-07%20at%2023.32.11.png)
+![Screenshot 2024-09-07 at 23.32.11](attachments/Screenshot%202024-09-07%20at%2023.32.11.png)
 
 An example...
-![Screenshot 2024-09-07 at 23.33.00](Screenshot%202024-09-07%20at%2023.33.00.png)
+![Screenshot 2024-09-07 at 23.33.00](attachments/Screenshot%202024-09-07%20at%2023.33.00.png)
 ## Realization (Interface)
 
 **NOTATION**: dotted line with empty arrow head
@@ -61,10 +61,10 @@ Say, from the example above:
 - `Enemy` can also attack `Player`
 - Both `Character`s can also target the player
 
-![Screenshot 2024-09-07 at 23.35.10](Screenshot%202024-09-07%20at%2023.35.10.png)
+![Screenshot 2024-09-07 at 23.35.10](attachments/Screenshot%202024-09-07%20at%2023.35.10.png)
 ## Dependency
-![Screenshot 2024-09-07 at 23.51.10](Screenshot%202024-09-07%20at%2023.51.10.png)
+![Screenshot 2024-09-07 at 23.51.10](attachments/Screenshot%202024-09-07%20at%2023.51.10.png)
 # Example...
-![Screenshot 2024-09-08 at 00.08.39](Screenshot%202024-09-08%20at%2000.08.39.png)
-![Screenshot 2024-09-08 at 00.08.49](Screenshot%202024-09-08%20at%2000.08.49.png)
+![Screenshot 2024-09-08 at 00.08.39](attachments/Screenshot%202024-09-08%20at%2000.08.39.png)
+![Screenshot 2024-09-08 at 00.08.49](attachments/Screenshot%202024-09-08%20at%2000.08.49.png)
 
