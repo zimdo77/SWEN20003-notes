@@ -15,7 +15,7 @@
 ## The default package
 ![Screenshot 2024-08-05 at 09.28.22](attachments/Screenshot%202024-08-05%20at%2009.28.22.png)
 # Information hiding
-- The OO design paradigm allows information related to classes/objects (i.e. attributes and methods) to be grouped together - **Encapsulation** - [](L3%20-%20Classes%20and%20Objects%201.md#OO%20features)
+- The OO design paradigm allows information related to classes/objects (i.e. attributes and methods) to be grouped together - **Encapsulation** - [](L03%20-%20Classes%20and%20Objects%201.md#OO%20features)
 - Actions on objects can be performed through methods of the class - **interface** to the class
 - The OO design paradigm also supports **Information Hiding**, where some attributes and methods are hidden from the user.
 - Information Hiding is aka **Visibility Control**.
