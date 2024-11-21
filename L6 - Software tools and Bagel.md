@@ -14,11 +14,11 @@ Software version control:
 - **Local repository**: a repository maintained in the local directory -  in `.git`sub directory.
 - **Index (staging area)**: a conceptual place for staging the changes - in `.git` sub directory.
 - **Working directory**: the local directory  where files are kept and modified
-![[Screenshot 2024-08-06 at 14.30.17.png|center|]]
+![center|](Screenshot%202024-08-06%20at%2014.30.17.png)
 ## The git model - branching
-![[Screenshot 2024-08-06 at 23.27.54.png]]
+![Screenshot 2024-08-06 at 23.27.54](Screenshot%202024-08-06%20at%2023.27.54.png)
 ## The git model - merging
-![[Screenshot 2024-08-06 at 23.28.14.png]]
+![Screenshot 2024-08-06 at 23.28.14](Screenshot%202024-08-06%20at%2023.28.14.png)
 ## Using git
 Subject remote repo: https://swen20003.eng.unimelb.edu.au/
 
@@ -40,14 +40,14 @@ Subject remote repo: https://swen20003.eng.unimelb.edu.au/
 
 NOTE: working directory contains the `.git` file. List hidden files using `ls -a`.
 ## Other useful git commands
-![[Screenshot 2024-08-07 at 00.19.38.png]]
+![Screenshot 2024-08-07 at 00.19.38](Screenshot%202024-08-07%20at%2000.19.38.png)
 # Build management with Maven
 - Software build management tool
 - Simplifies the process of building software by automatically importing libraries and dependencies from external repositories
 - In Maven, the project structure and contents are declared in an xml file, Project Object Model (POM) - pom.xml
 
 # Using the IntelliJ Debugger
-![[Screenshot 2024-08-08 at 22.50.34.png]]
+![Screenshot 2024-08-08 at 22.50.34](Screenshot%202024-08-08%20at%2022.50.34.png)
 # Bagel
 **Bagel** (Basic Academic Graphical Engine) is a custom graphics package for Java
 # Open Source Software (OSS) projects

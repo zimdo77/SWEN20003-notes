@@ -44,20 +44,20 @@ scanner.hasNextXXX();
 ```
 # Input: Reading files 
 ## Reading files using BufferedReader
- ![[Screenshot 2024-08-18 at 22.28.16.png]]
- ![[Screenshot 2024-08-18 at 22.28.39.png]]
- ![[Screenshot 2024-08-18 at 22.29.15.png]]
- ![[Screenshot 2024-08-18 at 22.29.24.png]]
- ![[Screenshot 2024-08-18 at 22.29.37.png]]
+ ![Screenshot 2024-08-18 at 22.28.16](Screenshot%202024-08-18%20at%2022.28.16.png)
+ ![Screenshot 2024-08-18 at 22.28.39](Screenshot%202024-08-18%20at%2022.28.39.png)
+ ![Screenshot 2024-08-18 at 22.29.15](Screenshot%202024-08-18%20at%2022.29.15.png)
+ ![Screenshot 2024-08-18 at 22.29.24](Screenshot%202024-08-18%20at%2022.29.24.png)
+ ![Screenshot 2024-08-18 at 22.29.37](Screenshot%202024-08-18%20at%2022.29.37.png)
 ## Reading files using Scanner
-![[Screenshot 2024-08-18 at 22.31.55.png]]
+![Screenshot 2024-08-18 at 22.31.55](Screenshot%202024-08-18%20at%2022.31.55.png)
 ## Reading files: BufferedReader vs Scanner
 - BufferedReader is more efficient than Scanner. 
 - Scanner is preferable for smaller files.
 - Scanner can parse text as well as read it.
 # Output: Writing files
-![[Screenshot 2024-08-18 at 22.45.13.png]]
-![[Screenshot 2024-08-18 at 22.45.51.png]]
-![[Screenshot 2024-08-18 at 22.46.08.png]]
-![[Screenshot 2024-08-18 at 22.46.24.png]]
-![[Screenshot 2024-08-18 at 22.46.36.png]]
+![Screenshot 2024-08-18 at 22.45.13](Screenshot%202024-08-18%20at%2022.45.13.png)
+![Screenshot 2024-08-18 at 22.45.51](Screenshot%202024-08-18%20at%2022.45.51.png)
+![Screenshot 2024-08-18 at 22.46.08](Screenshot%202024-08-18%20at%2022.46.08.png)
+![Screenshot 2024-08-18 at 22.46.24](Screenshot%202024-08-18%20at%2022.46.24.png)
+![Screenshot 2024-08-18 at 22.46.36](Screenshot%202024-08-18%20at%2022.46.36.png)
